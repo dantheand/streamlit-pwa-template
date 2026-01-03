@@ -12,6 +12,7 @@ https://github.com/user-attachments/assets/c4e86b7a-19f5-4b22-80b8-96513e412820
 ## Prerequisites
 
 *   **Streamlit Cloud App**: Deploy your Streamlit app on [Streamlit Cloud](https://streamlit.io/cloud) and get the iframe embed URL.
+*   **Static Hosting Site** You'll need a place to host the static webpage code like GitHub Pages or AWS Amplify.
 
 ## Configuration
 
