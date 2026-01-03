@@ -4,13 +4,21 @@ This template allows you to turn your Streamlit Cloud application into a Progres
 
 PWAs allow your users to install the app on their mobile devices providing a native-app-like experience. Since Streamlit Cloud-hosted apps require a constant internet connection, I also added an indicator for if the app is offline. 
 
+## Demo
+
+https://github.com/user-attachments/assets/c4e86b7a-19f5-4b22-80b8-96513e412820
+
+
 ## Prerequisites
 
 *   **Streamlit Cloud App**: Deploy your Streamlit app on [Streamlit Cloud](https://streamlit.io/cloud) and get the iframe embed URL.
 
 ## Configuration
 
-To use this template, create a new repository using this one as a template. Then modify the following files:
+To use this template, create a new repository using this one as a template. Then follow the configuration instructions below.
+<p align="center">
+   <img width="537" height="219" alt="image" src="https://github.com/user-attachments/assets/e8350925-6067-488b-bf31-95ddfe2de051" />
+</p>
 
 ### Add Your Icon
 
