@@ -1,0 +1,43 @@
+/* Main App Styles */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    background-color: #0E1117; 
+}
+iframe {
+    border: none;
+    width: 100%;
+    /* Hide the streamlit footer */
+    height: calc(100% + 45px); 
+    display: block;
+}
+
+/* Offline Overlay Styles */
+#offline-overlay {
+    background-color: #0E1117; 
+    z-index: 1000; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+    color: white; 
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+.offline-icon {
+    width: 64px;
+    height: 64px;
+    margin-bottom: 1.5rem;
+    color: #a0a0a0;
+}
+#offline-overlay h1 {
+    font-size: 2rem; 
+    margin-bottom: 1rem;
+}
+#offline-overlay p {
+    font-size: 1.2rem; 
+    margin-bottom: 2rem; 
+    color: #a0a0a0; 
+    padding: 0 20px;
+}
